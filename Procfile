@@ -1,1 +1,1 @@
-web: ./target/release/op-api-service
+web: ./target/release/oas-rs
